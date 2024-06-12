@@ -1,5 +1,4 @@
 //Crie um programa que exiba uma mensagem de boas-vindas ao usuário.//
-
 function boasVindas(){
     console.log("Boas-Vindas")
 }
